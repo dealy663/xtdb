@@ -16,8 +16,8 @@
                  [com.xtdb/xtdb-core]
                  [com.github.jnr/jnr-ffi "2.1.9"]
                  [org.lmdbjava/lmdbjava "0.7.0" :exclusions [com.github.jnr/jffi]]
-                 [org.lwjgl/lwjgl "3.2.3" :classifier "natives-linux" :native-prefix ""]
-                 [org.lwjgl/lwjgl-lmdb "3.2.3" :classifier "natives-linux" :native-prefix ""]
-                 [org.lwjgl/lwjgl "3.2.3" :classifier "natives-macos" :native-prefix ""]
-                 [org.lwjgl/lwjgl-lmdb "3.2.3" :classifier "natives-macos" :native-prefix ""]
-                 [org.lwjgl/lwjgl-lmdb "3.2.3"]])
+                 [org.lwjgl/lwjgl "3.3.0" :classifier "natives-linux" :native-prefix ""]
+                 [org.lwjgl/lwjgl-lmdb "3.3.0" :classifier "natives-linux" :native-prefix ""]
+                 [org.lwjgl/lwjgl "3.3.0" :classifier "natives-macos-arm64" :native-prefix ""]
+                 [org.lwjgl/lwjgl-lmdb "3.3.0" :classifier "natives-macos-arm64" :native-prefix ""]
+                 [org.lwjgl/lwjgl-lmdb "3.3.0"]])
