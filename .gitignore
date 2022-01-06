@@ -10,6 +10,7 @@ tags
 pom.xml
 target/
 *.log
+*.iml
 
 /setprofiler.sh
 
