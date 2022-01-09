@@ -22,4 +22,6 @@
                  [org.lwjgl/lwjgl-lmdb "3.3.0" :classifier "natives-macos-arm64" :native-prefix ""]
                  [org.lwjgl/lwjgl "3.3.0" :classifier "natives-macos" :native-prefix ""]
                  [org.lwjgl/lwjgl-lmdb "3.3.0" :classifier "natives-macos" :native-prefix ""]
+                 [org.lwjgl/lwjgl "3.3.0" :classifier "natives-windows" :native-prefix ""]
+                 [org.lwjgl/lwjgl-lmdb "3.3.0" :classifier "natives-windows" :native-prefix ""]
                  [org.lwjgl/lwjgl-lmdb "3.3.0"]])
