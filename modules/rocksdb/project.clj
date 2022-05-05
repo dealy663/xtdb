@@ -15,4 +15,5 @@
                  [com.xtdb/xtdb-core]
                  [com.xtdb/xtdb-metrics :scope "provided"]
                  [org.rocksdb/rocksdbjni "6.12.7"]
+                 ;[org.rocksdb/rocksdbjni "6.29.4.1"]
                  [com.github.jnr/jnr-ffi "2.1.12"]])
